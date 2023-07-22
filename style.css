@@ -3,14 +3,15 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: black;
+    background-color:rgb(7, 7, 7);
+   
 }
 .main-content
 {
     min-height: 190vh;
     width: 80%;
     margin: 1rem auto;
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(6, 60, 238);
     display: grid;
     grid-template-columns: repeat(6,2fr);
 
@@ -19,7 +20,7 @@
 {
     grid-column: span 2;
     height: 100%;
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
 }
 .section-right
 {
@@ -37,18 +38,18 @@
 {
     width: 270px; /* Set your desired width here */
     height: auto;
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
 }
 .imagee img {
     max-width: 100%;
     height: auto;
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     padding-left: 40px;
     padding-top: 30px;
   }
   .profile
   {
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     color: rgb(255, 255, 255);
    
     font-size: medium;
@@ -58,12 +59,12 @@
   .list
   {
     color:rgb(255, 255, 255);
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     padding-top: 10px;
     
   }
   ul {
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     padding-left: 20px;
     list-style-type:circle;
 
@@ -72,20 +73,21 @@
   {
     padding-top: 10px;
     padding-left: 30px;
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
   }
   p
   {
    
     padding-left: 30px;
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     color:rgb(255, 255, 255);
   }
   .box1
   {
     font-size: 67px;
-    color:  blueviolet;
+    color: rgb(6, 60, 238);
     background-color:rgb(255, 255, 255);
+
   }
   .rectangle1
   {
@@ -96,7 +98,7 @@
     margin: 15px 15px 15px 15px;
     width: auto;
     height: 58vh;
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     border-radius: 50px / 25px;
     
 
@@ -110,7 +112,7 @@
     margin: 20px 30px 10px 15px;
     width: auto;
     height: 57vh;
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     border-radius: 50px / 25px;
     
 
@@ -132,7 +134,7 @@
   .subhead
   {
     background-color:rgb(255, 255, 255);
-    color:  blueviolet;
+    color: rgb(6, 60, 238);
     font-size: medium;
     padding-left: 20px;
     
@@ -141,7 +143,7 @@
   {
     width: auto;
     height: 22vh;
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     border-radius: 50px / 25px;
     margin: 20px 30px 10px 15px;
 
@@ -150,13 +152,13 @@
   {
     width: auto;
     height: 51vh;
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     border-radius: 50px / 25px;
     margin: 20px 30px 10px 15px;
   }
   .box-text
   {
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     color:rgb(255, 255, 255);
     text-align: center;
    
@@ -168,10 +170,10 @@
   .education-container
   {
     border-radius: 50px / 25px;
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
   }
   .right-box
-  {background-color: blueviolet;
+  { background-color: rgb(6, 60, 238);
     text-align: left;
     color:rgb(255, 255, 255);
     margin-left: -97px;
@@ -179,7 +181,7 @@
   }
   h4{
     
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     text-align: left;
     font-size: larger;
     color:rgb(255, 255, 255);
@@ -190,20 +192,20 @@
   .points-right
   {
     color:rgb(255, 255, 255);
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     margin-left: 10px;
   }
   .points-mid
   {
     color:rgb(255, 255, 255);
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
     margin-left: 10px;
     font-size: 20px;
     margin-top: 10px;
   }
   h5{
     color:rgb(255, 255, 255);
-    background-color: blueviolet;
+    background-color: rgb(6, 60, 238);
   }
   
  
