@@ -1,0 +1,209 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+.main-content
+{
+    min-height: 190vh;
+    width: 80%;
+    margin: 1rem auto;
+    background-color: rgb(10, 10, 10);
+    display: grid;
+    grid-template-columns: repeat(6,2fr);
+
+}
+.section-left
+{
+    grid-column: span 2;
+    height: 100%;
+    background-color: blueviolet;
+}
+.section-right
+{
+    grid-column: span 2;
+    height: 100%;
+    background-color:rgb(251, 253, 253);
+}
+.section-mid
+{
+    grid-column: span 2;
+    height: 100%;
+    background-color:rgb(248, 248, 248);
+}
+.imagee
+{
+    width: 270px; /* Set your desired width here */
+    height: auto;
+    background-color: blueviolet;
+}
+.imagee img {
+    max-width: 100%;
+    height: auto;
+    background-color: blueviolet;
+    padding-left: 40px;
+    padding-top: 30px;
+  }
+  .profile
+  {
+    background-color: blueviolet;
+    color: aliceblue;
+   
+    font-size: medium;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .list
+  {
+    color: aliceblue;
+    background-color: blueviolet;
+    padding-top: 10px;
+    
+  }
+  ul {
+    background-color: blueviolet;
+    padding-left: 20px;
+    list-style-type:circle;
+
+  }
+  .paddingF
+  {
+    padding-top: 10px;
+    padding-left: 30px;
+    background-color: blueviolet;
+  }
+  p
+  {
+   
+    padding-left: 30px;
+    background-color: blueviolet;
+    color: aliceblue;
+  }
+  .box1
+  {
+    font-size: 67px;
+    color:  blueviolet;
+    background-color: bisque;
+  }
+  .rectangle1
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 15px 15px 15px 15px;
+    width: auto;
+    height: 58vh;
+    background-color: blueviolet;
+    border-radius: 50px / 25px;
+    
+
+  }
+  .rectangle2
+  {
+    
+   
+    
+    
+    margin: 20px 30px 10px 15px;
+    width: auto;
+    height: 57vh;
+    background-color: blueviolet;
+    border-radius: 50px / 25px;
+    
+
+  }
+  /* .rectangle3
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    margin: 15px 15px 15px 15px;
+    width: auto;
+    height: 65vh;
+    background-color: blueviolet;
+    border-radius: 50px / 25px;
+    
+
+  } */
+  .subhead
+  {
+    background-color: rgb(253, 253, 252);
+    color:  blueviolet;
+    font-size: medium;
+    padding-left: 20px;
+    
+  }
+  .square
+  {
+    width: auto;
+    height: 22vh;
+    background-color: blueviolet;
+    border-radius: 50px / 25px;
+    margin: 20px 30px 10px 15px;
+
+  }
+  .leftrec
+  {
+    width: auto;
+    height: 51vh;
+    background-color: blueviolet;
+    border-radius: 50px / 25px;
+    margin: 20px 30px 10px 15px;
+  }
+  .box-text
+  {
+    background-color: blueviolet;
+    color: bisque;
+    text-align: center;
+   
+  }
+  .sub-text
+  {
+    text-align: center;
+  }
+  .education-container
+  {
+    border-radius: 50px / 25px;
+    background-color: blueviolet;
+  }
+  .right-box
+  {background-color: blueviolet;
+    text-align: left;
+    color: bisque;
+    margin-left: -97px;
+    margin-top: -320px;
+  }
+  h4{
+    
+    background-color: blueviolet;
+    text-align: left;
+    font-size: larger;
+    color: bisque;
+    border-radius: 53px / 13px;
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+  .points-right
+  {
+    color: bisque;
+    background-color: blueviolet;
+    margin-left: 10px;
+  }
+  .points-mid
+  {
+    color: bisque;
+    background-color: blueviolet;
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  h5{
+    color: bisque;
+    background-color: blueviolet;
+  }
+  
+ 
