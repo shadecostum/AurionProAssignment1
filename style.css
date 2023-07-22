@@ -25,13 +25,13 @@
 {
     grid-column: span 2;
     height: 100%;
-    background-color:rgb(251, 253, 253);
+    background-color:rgb(255, 255, 255);
 }
 .section-mid
 {
     grid-column: span 2;
     height: 100%;
-    background-color:rgb(248, 248, 248);
+    background-color:rgb(255, 255, 255);
 }
 .imagee
 {
@@ -49,7 +49,7 @@
   .profile
   {
     background-color: blueviolet;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
    
     font-size: medium;
     padding-top: 20px;
@@ -57,7 +57,7 @@
   }
   .list
   {
-    color: aliceblue;
+    color:rgb(255, 255, 255);
     background-color: blueviolet;
     padding-top: 10px;
     
@@ -79,13 +79,13 @@
    
     padding-left: 30px;
     background-color: blueviolet;
-    color: aliceblue;
+    color:rgb(255, 255, 255);
   }
   .box1
   {
     font-size: 67px;
     color:  blueviolet;
-    background-color: bisque;
+    background-color:rgb(255, 255, 255);
   }
   .rectangle1
   {
@@ -131,7 +131,7 @@
   } */
   .subhead
   {
-    background-color: rgb(253, 253, 252);
+    background-color:rgb(255, 255, 255);
     color:  blueviolet;
     font-size: medium;
     padding-left: 20px;
@@ -157,7 +157,7 @@
   .box-text
   {
     background-color: blueviolet;
-    color: bisque;
+    color:rgb(255, 255, 255);
     text-align: center;
    
   }
@@ -173,7 +173,7 @@
   .right-box
   {background-color: blueviolet;
     text-align: left;
-    color: bisque;
+    color:rgb(255, 255, 255);
     margin-left: -97px;
     margin-top: -320px;
   }
@@ -182,27 +182,27 @@
     background-color: blueviolet;
     text-align: left;
     font-size: larger;
-    color: bisque;
+    color:rgb(255, 255, 255);
     border-radius: 53px / 13px;
     padding-top: 10px;
     padding-left: 10px;
   }
   .points-right
   {
-    color: bisque;
+    color:rgb(255, 255, 255);
     background-color: blueviolet;
     margin-left: 10px;
   }
   .points-mid
   {
-    color: bisque;
+    color:rgb(255, 255, 255);
     background-color: blueviolet;
     margin-left: 10px;
     font-size: 20px;
     margin-top: 10px;
   }
   h5{
-    color: bisque;
+    color:rgb(255, 255, 255);
     background-color: blueviolet;
   }
   
