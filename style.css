@@ -159,6 +159,7 @@
     background-color: blueviolet;
     color:rgb(255, 255, 255);
     text-align: center;
+    
    
   }
   .sub-text
@@ -204,6 +205,7 @@
   h5{
     color:rgb(255, 255, 255);
     background-color: blueviolet;
+    width:fit-content;
   }
   
  
